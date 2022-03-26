@@ -1,0 +1,165 @@
+h1{
+    color:rgb(255, 166, 0);
+    font-size: 50px;
+    margin: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color:rgb(0, 255, 64);
+    font-size: 40px;
+    margin: 20px;
+}
+.project{
+    color:rgb(0, 17, 255);
+    margin : 10px;
+    width: 100%;
+    font-size: 25px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+    margin:50px;
+    background-image: linear-gradient(tomato);
+    
+} 
+section{
+    display: flex;
+}
+.section1{
+    background-color: black;
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    margin-right: 50px;
+    border-radius: 25px;
+    margin-top: 20px;
+    
+}
+.image{
+   width: 100%;
+   
+    
+}
+.images{
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+h3{
+    color:violet;
+    font-size: 50px;
+  
+}
+h4{
+    color:brown;
+    font-size: 45px;
+    
+}
+.paragraph{
+    color:chartreuse;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+   
+}
+.division{
+    margin: 25px 100px;
+}
+    
+    
+
+.targets{
+    margin:50px;
+    
+    padding: 5px;
+    border-radius:5px;
+   
+
+}
+section{
+    display: flex;
+}
+.section2{
+    background-image: url(image/Untitled\ design\ \(5\).png);
+    background-repeat: no-repeat;
+    margin:25px 25px;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+
+.paragraph1{
+    color: gold;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 10px;
+   
+    
+}
+#hp6{
+    color:blueviolet;
+    text-align: center;
+
+}
+.web-devolop{
+        background-color: rgb(196, 175, 175);
+        height: 700px;
+        width: 600px;
+        border-radius: 20px;
+}
+#web-devo{
+    border-image:linear-gradient(rgb(79, 131, 21),rgb(107, 8, 8));
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+.paragraph2{
+    color:brown;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+#hp4{
+    color:rgba(0, 0, 255, 0.644);
+    text-align: center;
+
+}
+.youtube-seo{
+    background-color: aqua;
+    height: 700px;
+    width: 600px;
+    border-radius: 20px;
+    margin:10px;
+}
+#youtube{
+    border-left:7px solid;
+    border-image:linear-gradient(rgb(104, 116, 92),rgb(110, 20, 20));
+    border-image-slice:1;
+}
+.paragraph3{
+    color:tomato;
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#hp5{
+    color: blue;
+    text-align: center;
+}
+.facebook-seo{
+    background-color: aquamarine;
+    height: 700px;
+    width: 600px;
+    border-radius: 20px;
+    margin:10px;
+    
+}
+#facebook-color{
+    border-left:7px solid;
+    border-image:linear-gradient(rgb(64, 109, 12),rgb(0, 238, 255));
+    border-image-slice:1;
+
+}
+footer{
+    color: rgb(219, 18, 18);
+    text-align: center;
+    font-size: 30px;
+}
